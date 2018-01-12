@@ -14,7 +14,7 @@ There are many ways to preprocess the data...you can fill them manually..or cons
 
 3) Model Construction (Split data into train and test sets)
 
-Originally I was to use SVM to solve this and ROC/AUC curve to measure the performance but then I realized they are designed for non-quantititive classifcation. Therefore I switched to a Linear Regression appraoch. I used Sklearn library's LinearRegression
+Originally I was to use SVM to solve this and ROC/AUC curve to measure the performance but then I realized they are designed for non-quantititive classifcation. Therefore I switched to a Linear Regression approach. I used Sklearn library's LinearRegression
 
 4) Output the model statistics (e.g. both test and train accuracy)
 
